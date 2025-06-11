@@ -1,0 +1,130 @@
+用户资料:{"name": "田红", "relation": "上级", "gender": "女", "faceId": 100, "age": 38, "birthdate": "1987-08-06", "birthplace": "湖北省-武汉市", "education": "硕士", "graduateSchool": "华中师范大学", "major": "思想政治教育", "location": "江西省-南昌市", "homeAddress": "江西省南昌市红谷滩区学府大道999号", "company": "南昌大学", "occupation": "高校教师", "position": "辅导员", "grade": "副科级", "economicLevel": "小康", "entertainment": ["阅读管理类书籍", "组织班会活动", "周末自驾游"], "dietaryPreference": ["热干面", "武昌鱼", "莲藕排骨汤"], "personality": "ISTJ", "contactNumber": "17676804697", "idNumber": "420100198708060501", "bankCard": "6225885751935342", "email": "tianhong@ncu.edu.cn", "formalOrNot": "正式", "lengthOfTheStatement": "中等", "amountOfInformation": "信息量适中", "DecisionMakingMethod": "从众", "domain": {"Foodie": {"specific": {"locationNot": ["广东省-深圳市-宝安区-前海壹方城", "广东省-深圳市-龙岗区-坂田万科广场", "静安寺"], "tasteNot": ["粤菜", "鲁菜", "东北菜"], "shopNot": ["牛贝旺王老五烤肉店（宝安壹方城店）", "双龙牛杂（坂田万科店）", "小杨生煎（静安寺店）"], "constraint": ["环境更好", "停车", "评分更高"]}, "context": {"time": ["中午", "晚上"], "taste": ["湖北菜", "湘菜"], "location": ["红谷滩区", "南昌大学周边"], "scenes": ["聚餐", "亲子"], "rating": ["不低于4.5", "超过4.7"], "price": ["不高于80", "在50-100之间"], "sourceLocation": ["自己"]}}, "Skincare": {"specific": {"skinType": ["油性", "痘痘肌"], "skinProblems": ["痘痘", "闭口", "毛孔粗大"], "environmentalFactors": ["潮湿", "南方", "高温天气"], "lifestyleHabits": ["高油饮食", "熬夜", "使用过热洗脸水"], "ContraindicatedIngredients": ["矿物油", "合成香料", "酒精"], "AvoidBranding": ["欧莱雅", "兰蔻"], "purchasedProducts": ["理肤泉", "薇诺娜"]}, "context": {"productType": ["洁面乳", "精华", "防晒霜"], "focusOnEfficacy": ["控油", "祛痘", "收缩毛孔"], "ingredientPreference": ["水杨酸", "积雪草"], "priceRange": "200-500", "SkincareTime": ["晚上"]}}, "VMALL": {"specific": {"categoryNot": ["智能穿戴"], "deviceNot": ["华为儿童手表 4X 新耀款", "HUAWEI WATCH FIT 3", "华为手环 6 NFC版"], "seriesNot": ["健康及儿童手表", "Pocket 系列"], "colorNot": ["粉", "黄", "橘"]}, "context": {"category": ["手机", "平板电脑"], "color": ["白", "黑", "银"], "scene": ["工作", "家庭"], "configuration": ["i5", "8G", "512G"], "priceRange": ["3000-5000", "2000-3500"]}}}}
+
+
+
+
+[turn_1]User: 请推荐一款适合我的手机，预算在3000到5000元之间。
+
+
+
+[turn_1]Sys:好的，根据您的预算（3000到5000元），我推荐以下几款手机：
+
+1. **小米11** 
+   - 价格：约3500元
+   - 屏幕：6.81英寸 AMOLED 
+   - 处理器：Snapdragon 888 
+   - 拍照：1亿像素主摄
+   - 优点：性价比高，性能强劲
+   - 缺点：重，续航一般
+
+2. **华为P40** 
+   - 价格：约4500元
+   - 屏幕：6.1英寸 OLED
+   - 处理器：Kirin 990
+   - 拍照：5000万像素主摄
+   - 优点：拍照出色，系统流畅
+   - 缺点：无Google服务
+
+3. **OPPO Find X3** 
+   - 价格：约4800元
+   - 屏幕：6.7英寸 AMOLED 
+   - 处理器：Snapdragon 888
+   - 拍照：5000万像素主摄
+   - 优点：设计精美，屏幕效果好
+   - 缺点：价格偏高
+
+您更倾向于哪个品牌或特性呢？如果有其他需求，也可以告诉我！
+
+
+
+[turn_2]User: 我选择小米11，性价比高，适合我的需求。
+
+
+
+[turn_2]Sys:很高兴您选择了小米11！它确实是一款性价比高的手机。您可以考虑以下信息：
+
+- **购买渠道**：您可以在官方商城、京东、天猫等电商平台购买。
+- **售后服务**：小米的售后服务不错，支持全国联保。
+- **配件**：可以考虑购买保护壳和屏幕保护膜以保护手机。
+
+如果您还有其他问题或需要帮助，请随时告诉我！
+
+
+
+[turn_3]User: 请推荐一些适合小米11的配件。
+
+
+
+[turn_3]Sys:当然可以！以下是一些适合小米11的配件推荐：
+
+1. **保护壳** 
+   - 推荐选择软壳或硬壳保护套，可以保护手机免受摔落和划伤的影响。
+
+2. **屏幕保护膜**
+   - 玻璃膜或塑料膜都可以，建议选择抗反射和抗蓝光的产品，减少眼部疲劳。
+
+3. **充电器/充电线**
+   - 小米11支持快速充电，购买原装或兼容的65W快充充电器能为您省时。
+
+4. **蓝牙耳机**
+   - 小巧便携的真无线蓝牙耳机，搭配小米11享受高质量音乐。
+
+5. **手机支架**
+   - 可调节的手机支架，适合观看视频时使用，提升舒适度。
+
+如果您需要更具体的品牌或型号推荐，欢迎告诉我！
+
+
+
+[turn_4]User: 请推荐一些适合小米11的保护壳品牌和型号。
+
+
+
+[turn_4]Sys:好的，以下是一些适合小米11的保护壳品牌和型号推荐：
+
+1. **Nillkin** 
+   - 型号：Nillkin Super Frosted Shield
+   - 特点：硬壳设计，耐磨，轻薄，手感好。
+
+2. **Spigen**
+   - 型号：Spigen Tough Armor
+   - 特点：双层保护，防摔性能优秀，提供良好抓握。
+
+3. **UAG (Urban Armor Gear)**
+   - 型号：UAG Plasma Series
+   - 特点：军规防护，轻便透气，时尚设计。
+
+4. **Baseus**
+   - 型号：Baseus Silky Feel Case
+   - 特点：柔软的表面，防滑设计，保护性能兼顾外观。
+
+您可以根据自己的喜好选择合适的保护壳！如果需要更多信息，请随时告诉我。
+
+
+
+[turn_5]User: 请推荐一些适合小米11的屏幕保护膜品牌和型号。
+
+
+
+[turn_5]Sys:当然可以！以下是一些适合小米11的屏幕保护膜品牌和型号推荐：
+
+1. **Nillkin**
+   - 型号：Nillkin Amazing H+ Pro
+   - 特点：高清透光、耐刮花，能有效防止指纹。
+
+2. **Spigen**
+   - 型号：Spigen Glas.tR EZ Fit
+   - 特点：强韧的2.5D弧边设计，防指纹，安装简单。
+
+3. **贝尔金 (Belkin)**
+   - 型号：Belkin UltraGlass Screen Protector
+   - 特点：超薄设计，极佳的触控灵敏度，保护性能强。
+
+4. **Baseus**
+   - 型号：Baseus Anti-Spy Screen Protector
+   - 特点：防窥幕，保护隐私，同时提供抗划伤能力。
+
+您可以根据个人需求选择合适的屏幕保护膜！如果有其他问题，欢迎随时询问！
+
+
+

@@ -1,0 +1,29 @@
+用户资料:{"name": "潘弘文", "relation": "客户", "gender": "男", "faceId": 106, "age": 28, "birthdate": "1997-05-28", "birthplace": "江苏省-苏州市", "education": "大专", "graduateSchool": "苏州职业大学", "major": "市场营销", "location": "浙江省-杭州市", "homeAddress": "浙江省杭州市余杭区未来科技城EFC欧美广场A座902", "company": "新零售科技", "occupation": "市场专员", "position": "区域经理", "grade": "M2", "economicLevel": "小康", "entertainment": ["街头篮球", "音乐节", "网红打卡"], "dietaryPreference": ["苏式汤面", "大闸蟹", "气泡水"], "personality": "ENFP", "contactNumber": "13603916670", "idNumber": "320500199705285599", "bankCard": "6237385964454218", "email": "panhongwen@xinlingshoukeji.com", "formalOrNot": "非正式", "lengthOfTheStatement": "冗长", "amountOfInformation": "信息量多", "DecisionMakingMethod": "从众", "domain": {"Foodie": {"specific": {"locationNot": ["广东省-深圳市-南山区-万象天地", "湖南省-长沙市-芙蓉区-国金中心"], "tasteNot": ["鲁菜", "东北菜", "新疆菜"], "shopNot": ["老湘村（南山万象城店）", "西域楼兰（长沙国金店）"], "constraint": ["环境", "口碑", "停车"]}, "context": {"time": ["中午", "晚上"], "taste": ["粤菜", "杭帮菜"], "location": ["余杭区EFC欧美广场", "未来科技城"], "shop": ["外婆家（EFC店）", "绿茶餐厅（未来科技城店）"], "scenes": ["聚餐", "网红打卡"], "rating": ["大于4.5"], "sourceLocation": ["自己"]}}, "Skincare": {"specific": {"skinType": ["油性", "敏感肌"], "skinProblems": ["痘痘", "闭口", "毛孔粗大"], "environmentalFactors": ["潮湿", "南方", "空调房"], "lifestyleHabits": ["熬夜", "高糖饮食", "长时间看屏幕"], "ContraindicatedIngredients": ["酒精", "矿物油"], "AvoidBranding": ["倩碧", "科颜氏"], "purchasedProducts": ["薇诺娜", "理肤泉"]}, "context": {"productType": ["控油洁面乳", "祛痘精华"], "focusOnEfficacy": ["控油", "祛痘", "收缩毛孔"], "ingredientPreference": ["水杨酸", "积雪草"], "priceRange": "300-600"}}, "VMALL": {"specific": {"categoryNot": ["智能穿戴"], "deviceNot": ["华为儿童手表 4X 新耀款", "华为手环 6 NFC版", "HUAWEI WATCH GT 5"], "seriesNot": ["健康及儿童手表", "Pocket 系列"], "colorNot": ["粉", "橙", "黄"]}, "context": {"category": ["手机", "笔记本电脑"], "device": ["HUAWEI Mate 60 Pro", "Hi MateBook 14"], "color": ["黑", "银", "蓝"], "scene": ["游戏", "商务办公"], "priceRange": ["5000-8000", "6000-10000"]}}}, "user_behavior": {"impatient": "1", "formality": "1"}}
+
+
+
+
+[turn_1]User: 请立即提供外婆家（EFC店）关于环境和口碑的详细信息，我时间紧迫，不容拖延。
+
+
+
+[turn_1]Sys:外婆家（EFC店）以其舒适的就餐环境和良好的口碑而闻名。 
+
+**环境**：
+- 餐厅装潢温馨，适合家庭聚餐和朋友聚会。
+- 采用了现代与传统相结合的设计风格，营造出一个轻松愉快的氛围。
+- 通常会有充足的座位，但在高峰时段可能需要等位。
+
+**口碑**：
+- 食客们普遍评价菜品新鲜美味，尤其是家常菜和地方特色菜。
+- 服务态度友好，员工响应迅速。
+- 某些分店的排队时间较长，但整体体验仍受顾客喜爱。
+
+如果您需要了解更多信息，如具体菜品、价格或某个分店的特别活动，请告诉我！
+
+
+
+[turn_2]User: 外婆家（EFC店）的环境和口碑符合我的需求，我没有更多问题，请结束对话，时间紧迫，拜拜。
+
+
+

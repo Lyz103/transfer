@@ -1,0 +1,28 @@
+用户资料:{"name": "卢海峰", "relation": "上级", "gender": "男", "faceId": 100, "age": 45, "birthdate": "1980-11-03", "birthplace": "湖北省-武汉市", "education": "博士", "graduateSchool": "华中科技大学", "major": "计算机科学与技术", "location": "广东省-广州市", "homeAddress": "广东省广州市天河区五山路381号华工大教师公寓2栋1203", "company": "华南理工大学", "occupation": "教授", "position": "研究生导师", "grade": "副教授", "economicLevel": "小康", "entertainment": ["学术论坛", "围棋", "古典音乐"], "dietaryPreference": ["热干面", "莲藕排骨汤", "广式早茶"], "personality": "INTJ", "contactNumber": "18832815494", "idNumber": "420100198011033917", "bankCard": "6222026625873887", "email": "luhf1980@scut.edu.cn", "formalOrNot": "正式", "lengthOfTheStatement": "冗长", "amountOfInformation": "信息量多", "DecisionMakingMethod": "纠结", "domain": {"Foodie": {"specific": {"locationNot": ["广东省-深圳市-宝安区-前海壹方城", "广东省-广州市-天河区-太古汇", "上海市-静安区-静安寺"], "tasteNot": ["鲁菜", "新疆菜", "东北菜"], "shopNot": ["小杨生煎（静安寺店）", "海底捞火锅（广州太古汇店）", "西贝莜面村（深圳前海店）"], "constraint": ["环境更好", "停车", "评分更高"]}, "context": {"time": ["中午", "晚上"], "taste": ["粤菜", "江浙菜"], "location": ["珠江新城", "天河城商圈"], "shop": ["炳胜品味（珠江新城店）", "陶陶居酒家（天河城店）"], "listType": ["黑珍珠榜"], "scenes": ["商务宴请", "家庭聚餐"], "rating": ["高于4.5"], "price": ["150-300"], "sourceLocation": ["自己"]}}, "Skincare": {"specific": {"skinType": ["混合性", "敏感肌"], "skinProblems": ["红血丝", "过敏", "毛孔粗大"], "environmentalFactors": ["南方", "潮湿", "空调房"], "lifestyleHabits": ["熬夜", "过度清洁", "压力过大"], "ContraindicatedIngredients": ["酒精", "香精", "尼泊金酯类"], "AvoidBranding": ["欧莱雅", "雅诗兰黛"], "purchasedProducts": ["理肤泉", "薇诺娜"]}, "context": {"productType": ["面霜", "防晒霜"], "focusOnEfficacy": ["修复", "舒缓", "保湿"], "SkincareScene": ["医美后", "空调房"], "ingredientPreference": ["神经酰胺", "积雪草"], "priceRange": "300-800"}}, "VMALL": {"specific": {"categoryNot": ["智能穿戴"], "deviceNot": ["HUAWEI WATCH GT 5 Pro", "华为儿童手表 5X Pro", "HUAWEI WATCH B9-D10"], "seriesNot": ["健康及儿童手表", "WATCH Ultimate系列"], "colorNot": ["金", "橘", "红"]}, "context": {"category": ["手机", "平板电脑"], "device": ["HUAWEI Mate 60 Pro", "HUAWEI MatePad Pro"], "color": ["黑", "银", "蓝"], "function": ["长续航", "商务功能"], "priceRange": ["5000-8000", "3000-5000"]}}}, "user_behavior": {"impatient": "1", "formality": "f1", "conciseness": "0"}}
+
+
+
+
+[turn_1]User: 我中午吃饭，快告诉我炳胜品味和陶陶居家这两家环境和评分咋样，别磨蹭了。
+
+
+
+[turn_1]Sys:炳胜品味环境优雅，适合聚餐，评分一般在4.5星左右，顾客点评较好，服务也不错。  
+陶陶居家则更有家庭氛围，评分普遍在4星以上，菜品新鲜，口味正宗，也很受欢迎。  
+
+两家都挺不错，建议根据你想要的用餐氛围来选择！
+
+
+
+[turn_2]User: 炳胜品味那人均消费和停车情况咋样？快点说，我没时间等！
+
+
+
+[turn_2]Sys:炳胜品味的人均消费大约在150元左右，具体视点的菜单而定。停车方面，店周围有一些停车位，但高峰期可能要等一会。建议尽早去或者考虑公共交通，方便快捷！
+
+
+
+[turn_3]User: 炳胜品味的情况我基本知道了，挺符合我的要求，就这样吧，我没时间了，拜拜！
+
+
+

@@ -1,0 +1,45 @@
+用户资料:{"name": "林旭宸", "relation": "客户", "gender": "男", "faceId": 106, "age": 28, "birthdate": "1997-03-25", "birthplace": "香港特别行政区", "education": "本科", "graduateSchool": "香港中文大学", "major": "金融学", "location": "广东省-珠海市", "homeAddress": "广东省珠海市香洲区横琴新区环岛东路188号跨境园区公寓1号楼顶层", "company": "横琴跨境科技", "occupation": "创业公司CEO", "position": "首席执行官", "grade": "创始人", "economicLevel": "高净值", "entertainment": ["帆船运动", "艺术收藏", "慈善晚宴"], "dietaryPreference": ["港式奶茶", "澳门葡国菜", "顺德双皮奶"], "personality": "ENFP", "contactNumber": "17742559873", "idNumber": "", "bankCard": "6225880476266479", "email": "linxuchen@hengqin-tech.com", "formalOrNot": "正式", "lengthOfTheStatement": "冗长", "amountOfInformation": "信息量多", "DecisionMakingMethod": "随便", "domain": {"Foodie": {"specific": {"locationNot": ["广东省-深圳市-龙岗区-坂田万科广场", "广东省-深圳市-福田区-购物公园", "上海市-静安区-静安寺"], "tasteNot": ["川菜", "鲁菜", "东北菜"], "shopNot": ["牛贝旺王老五烤肉店（坂田万科店）", "双龙牛杂（科技园店）", "湘阁里辣（福田COCO店）"], "constraint": ["环境更好", "口碑", "停车"]}, "context": {"time": ["中午", "晚上"], "taste": ["澳门葡国菜", "顺德菜", "法餐"], "location": ["横琴口岸商圈", "珠海长隆度假区"], "listType": ["黑珍珠榜"], "scenes": ["商务宴请", "纪念日"], "rating": ["不低于4.8", "超过4.9"], "privateRoom": ["6人包间", "10人包间"], "radius": ["3公里以内"], "sourceLocation": ["跨境园区公寓"]}}, "Skincare": {"specific": {"skinType": ["油性", "敏感肌"], "skinProblems": ["红血丝", "毛孔粗大", "脱皮"], "environmentalFactors": ["空调房", "干燥地区"], "lifestyleHabits": ["熬夜", "使用过热洗脸水", "频繁更换护肤品"], "ContraindicatedIngredients": ["酒精", "果酸", "合成香料"], "AvoidBranding": ["兰蔻", "科颜氏"], "purchasedProducts": ["理肤泉", "薇诺娜"]}, "context": {"productType": ["精华", "防晒霜"], "focusOnEfficacy": ["修复", "保湿"], "SkincareScene": ["医美后", "旅行"], "ingredientPreference": ["神经酰胺", "玻尿酸"], "compareDimensions": ["成分", "功效"], "priceRange": "500-1500"}}, "VMALL": {"specific": {"categoryNot": ["智能穿戴"], "deviceNot": ["华为手环 6 NFC版", "华为儿童手表 5 Pro", "华为手环 10"], "seriesNot": ["健康及儿童手表", "Mate系列", "nova系列"], "colorNot": ["粉", "橙", "黄"]}, "context": {"category": ["笔记本电脑"], "series": ["MateBook X 系列"], "color": ["黑", "银"], "configuration": ["i7", "16G", "1TB"], "function": ["指纹解锁", "4K触控屏"], "priceRange": ["8000-15000"], "scene": ["商务办公", "出差"]}}}, "user_behavior": {"emojis": "1", "vague": "1", "impatient": "1"}}
+
+
+
+
+[turn_1]User: 嗯……大概是要个6人或10人的包间吧？🤔快点给我安排了，别磨蹭了，我时间挺紧的😤💨
+
+
+
+[turn_1]Sys:当然可以！请问您需要在什么地点预订包间？我可以帮您找到合适的6人或10人的包间，并尽快安排！
+
+
+
+[turn_2]User: 嗯……应该是在横琴口岸商圈或者珠海长隆度假区吧🤔🫠，快点帮我安排了，别磨蹭了😤💨！
+
+
+
+[turn_2]Sys:好的！我会尽快帮您在横琴口岸商圈或者珠海长隆度假区找到适合6人或10人的包间。请稍等片刻，我会提供一些选择！
+
+
+
+[turn_3]User: 嗯……应该是中午或者晚上吧？🤔不太确定啦，快点给我安排了，别磨蹭了😤💨！
+
+
+
+[turn_3]Sys:好的，我会为您在横琴口岸商圈或珠海长隆度假区找到适合6人或10人的包间。请您稍等，我会查看中午和晚上的可用选项，然后尽快给您安排！感谢您的耐心！
+
+
+
+[turn_4]User: 嗯……应该是澳门葡国菜或者顺德菜吧，也可能法餐？😤🫠快点帮我安排了，别磨蹭了！🤯
+
+
+
+[turn_4]Sys:好的！我会为您在横琴口岸商圈或珠海长隆度假区寻找适合6人或10人的葡国菜、顺德菜或法餐的包间。请稍等片刻，我会尽快提供可用的餐厅选项！感谢您的耐心！
+
+
+
+[turn_5]User: 嗯……评分好像得不低于4.8或者超过4.9才行吧？🤔😤快点帮我搞定，别磨蹭了，真的没时间等！⏳💥
+
+
+
+[turn_5]Sys:好的，我会专门为您查找在横琴口岸商圈或珠海长隆度假区，能够容纳6人或10人的，评分不低于4.8或者超过4.9的葡国菜、顺德菜或法餐包间选项。请稍等，我尽快给您提供可用餐厅！
+
+
+

@@ -1,0 +1,50 @@
+用户资料:{"name": "董慧敏", "relation": "客户", "gender": "女", "faceId": 103, "age": 30, "birthdate": "1995-03-11", "birthplace": "浙江省-杭州市", "education": "本科", "graduateSchool": "浙江大学", "major": "工商管理", "location": "上海市-浦东新区", "homeAddress": "上海市浦东新区陆家嘴街道仁恒滨江园8号楼2101", "company": "云帆集团", "occupation": "采购经理", "position": "大客户总监", "grade": "D4", "economicLevel": "富裕", "entertainment": ["高尔夫", "私人酒会", "海外旅行"], "dietaryPreference": ["日料", "杭帮菜", "单一麦芽威士忌"], "personality": "ESTJ", "contactNumber": "15942104482", "idNumber": "330100199503118020", "bankCard": "6227008572157917", "email": "donghuimin1995@163.com", "formalOrNot": "正式", "lengthOfTheStatement": "中等", "amountOfInformation": "信息量多", "DecisionMakingMethod": "从众", "domain": {"Foodie": {"specific": {"locationNot": ["浙江省-杭州市-拱墅区-大悦城", "江苏省-苏州市-姑苏区-观前街", "上海市-浦东新区-陆家嘴"], "tasteNot": ["湘菜", "徽菜", "云南菜"], "shopNot": ["外婆家（杭州大悦城店）", "松鹤楼（观前街老店）", "小南国（陆家嘴中心店）"], "constraint": ["包间", "食材更好", "距离更近"]}, "context": {"time": ["晚上"], "taste": ["日料", "法餐"], "location": ["新天地", "外滩"], "shop": ["鮨一（外滩店）", "Jean-Georges（外滩三号店）"], "listType": ["黑珍珠榜"], "scenes": ["纪念日", "商务宴请"], "price": ["800-1500"], "rating": ["不低于4.7"], "privateRoom": ["8人包间"], "sourceLocation": ["公司"]}}, "Skincare": {"specific": {"skinType": ["混合性", "敏感肌"], "skinProblems": ["痘痘", "暗沉", "黑眼圈"], "environmentalFactors": ["潮湿", "空调房", "室内"], "lifestyleHabits": ["熬夜", "压力过大", "长时间看屏幕"], "ContraindicatedIngredients": ["酒精", "香精", "尼泊金酯类"], "AvoidBranding": ["欧莱雅", "兰蔻", "碧欧泉"], "purchasedProducts": ["薇诺娜", "理肤泉", "雅漾"]}, "context": {"productType": ["精华", "面霜"], "focusOnEfficacy": ["抗衰老", "修复"], "ingredientPreference": ["玻尿酸", "神经酰胺"], "brandPreference": ["La Mer"], "priceRange": "800-2000"}}, "VMALL": {"specific": {"categoryNot": ["智能穿戴"], "deviceNot": ["华为儿童手表 4X 新耀款", "华为畅享 70", "荣耀Play3e"], "seriesNot": ["畅享系列", "健康及儿童手表"], "colorNot": ["粉", "橘", "黄"]}, "context": {"category": ["手机"], "device": ["HUAWEI Mate 70 RS 非凡大师", "HUAWEI Pura 70 Ultra"], "series": ["Mate系列"], "color": ["黑", "银"], "configuration": ["i7", "16G", "1TB"], "scene": ["商务"], "priceRange": ["8000-15000"]}}}, "user_behavior": {"conciseness": "f1", "formality": "1", "vague": "1"}}
+
+
+
+
+[turn_1]User: 您好，我想先确认一下，关于‘鮨一（外滩店）’这家店，是否还有可以容纳8人的包间可用呢？因为我们这次用餐比较特殊，可能需要一个比较合适的空间，不过具体情况我也不是特别确定，希望您能帮忙确认一下。
+
+
+
+[turn_1]Sys:您好！关于‘鮨一（外滩店）’，我建议您直接致电店铺确认包间的可用性，因为实时情况可能会有所变化。如果您需要联系方式或其他帮助，请告诉我！
+
+
+
+[turn_2]User: 您好，我想请问一下，关于‘Jean-Georges（外滩三号店）’这家餐厅，不太确定但大概可能会有合适的8人包间可用吗？因为考虑到我们这次用餐的特殊需求，想确认一下包间的情况，虽然具体情况我不是非常清楚，还请您帮忙核实一下，谢谢！
+
+
+
+[turn_2]Sys:您好！关于‘Jean-Georges（外滩三号店）’，建议您直接拨打餐厅电话确认是否有8人包间可用，因为实时情况可能会有所变化。如果需要，我可以帮您找到联系方式！
+
+
+
+[turn_3]User: 您好，关于‘鮨一（外滩店）’这家餐厅，我想大概可能需要确认一下他们是否还有适合8人包间的联系方式，不太确定具体号码，能否请您帮忙提供一下，以便我能更直接地了解包间的具体情况？谢谢您的帮助。
+
+
+
+[turn_3]Sys:您好！‘鮨一（外滩店）’的联系电话是021-6321-2988。您可以直接拨打此号码确认包间的可用性。如果还有其他问题，请随时告诉我！
+
+
+
+[turn_4]User: 您好，关于‘Jean-Georges（外滩三号店）’的联系方式，我记得好像是021开头的号码，不过具体数字我不太确定，可能需要您帮忙确认一下是否正确，以便我能更方便地联系他们核实包间情况，非常感谢您的协助。
+
+
+
+[turn_4]Sys:您好！‘Jean-Georges（外滩三号店）’的联系电话是021-6321-1122。您可以直接拨打此号码确认包间的可用性。如果还有其他问题，欢迎随时问我！
+
+
+
+[turn_5]User: 您好，我想确认一下，关于‘鮨一（外滩店）’这家餐厅的8人包间情况，好像之前提过，不过我不太确定是不是还有空余，可能的话能帮忙再确认一下吗？另外，关于‘Jean-Georges（外滩三号店）’的包间情况，也想稍微了解一下，虽然具体不太明白，但感觉可能差不多是那样。如果您方便的话，请帮忙核实一下，谢谢！
+
+
+
+[turn_5]Sys:您好！关于‘鮨一（外滩店）’和‘Jean-Georges（外滩三号店）’的8人包间情况，建议您直接拨打各餐厅的电话进行确认，因为实时情况可能会有所变化。您可以使用以下联系方式：
+
+- **鮨一（外滩店）**：021-6321-2988
+- **Jean-Georges（外滩三号店）**：021-6321-1122
+
+如果您还有其他问题或需要更多帮助，请随时告诉我！
+
+
+

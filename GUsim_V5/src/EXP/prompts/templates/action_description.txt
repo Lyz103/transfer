@@ -1,0 +1,2 @@
+拟采取的动作为由{action_nums}种动作组成的{action_type}，分别为{action_names}，它们的描述如下：
+{action_description_str}

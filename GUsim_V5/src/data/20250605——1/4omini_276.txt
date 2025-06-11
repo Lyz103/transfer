@@ -1,0 +1,67 @@
+用户资料:{"name": "贾雅楠", "relation": "小学同学", "gender": "女", "faceId": 200, "age": 23, "birthdate": "2002-06-30", "birthplace": "甘肃省-兰州市", "education": "中专", "graduateSchool": "兰州职业技术学院", "major": "学前教育", "location": "甘肃省-兰州市", "homeAddress": "兰州市城关区庆阳路456号", "company": "兰州市城关区某幼儿园", "occupation": "幼儿教师", "position": "教师", "grade": "初级", "economicLevel": "温饱", "entertainment": ["手工DIY", "看动画片", "公园散步"], "dietaryPreference": ["兰州拉面", "甜醅子", "灰豆子"], "personality": "ISTJ", "contactNumber": "15783206655", "idNumber": "620100200206300525", "bankCard": "6222021138752704", "email": "jiayanan@lzskindergarten.com", "formalOrNot": "非正式", "lengthOfTheStatement": "中等", "amountOfInformation": "信息量适中", "DecisionMakingMethod": "从众", "domain": {"Foodie": {"specific": {"locationNot": ["广东省-深圳市-南山区-海岸城", "广东省-广州市-天河区-太古汇", "湖南省-长沙市-芙蓉区"], "tasteNot": ["湘菜", "徽菜", "西北菜"], "shopNot": ["炊烟小炒黄牛肉（海岸城店）", "禄鼎记（太古汇分店）", "文和友老长沙龙虾馆（芙蓉直营店）"], "constraint": ["包间", "食材更好", "停车"]}, "context": {"time": ["中午", "晚上"], "taste": ["川菜", "粤菜"], "location": ["城关区", "七里河区"], "scenes": ["亲子", "聚餐"], "price": ["50-80", "不高于100"], "rating": ["大于4.5"], "sourceLocation": ["自己"]}}, "Skincare": {"specific": {"skinType": ["混合性", "敏感肌"], "skinProblems": ["红血丝", "毛孔粗大", "脱皮"], "environmentalFactors": ["干燥地区", "空调房"], "lifestyleHabits": ["过度清洁", "熬夜", "缺乏防晒"], "ContraindicatedIngredients": ["酒精", "硫酸月桂酸钠", "合成香料"], "AvoidBranding": ["欧莱雅", "科颜氏"], "purchasedProducts": ["理肤泉", "薇诺娜"]}, "context": {"productType": ["面霜", "身体乳"], "focusOnEfficacy": ["保湿", "修复"], "ingredientPreference": ["神经酰胺", "玻尿酸"], "priceRange": "200-400"}}, "VMALL": {"specific": {"categoryNot": ["智能穿戴"], "deviceNot": ["华为儿童手表 4X 新耀款", "HUAWEI WATCH FIT new", "华为手环 6 NFC版"], "seriesNot": ["健康及儿童手表", "WATCH 系列"], "colorNot": ["粉", "橙", "黄"]}, "context": {"category": ["手机"], "device": ["华为畅享 70"], "color": ["白", "银"], "scene": ["母亲", "老人机"], "function": ["大电池", "护眼模式"], "priceRange": ["1500-2500"]}}}, "user_behavior": {"conciseness": "1", "formality": "f1"}}
+
+
+
+
+[turn_1]User: 中午。
+
+
+
+[turn_1]Sys:你好！中午好！你今天想吃点什么吗？我可以帮你推荐一些美食或者餐馆！
+
+
+
+[turn_2]User: 城关区，七里河区。
+
+
+
+[turn_2]Sys:好的！在城关区和七里河区，有很多不错的用餐选择。以下是几家推荐的餐馆：
+
+**城关区：**
+1. **三十而已火锅** - 口味鲜美，适合聚餐，人均约80元。
+2. **小川料理** - 日式料理，人均约100元，环境优雅。
+3. **兰州拉面** - 快捷实惠，经典兰州拉面，人均约30元。
+
+**七里河区：**
+1. **川湘小馆** - 辣味十足，适合喜欢重口味的人，人均约60元。
+2. **海底捞火锅** - 服务优质，有多种菜品可选，人均约120元。
+3. **大碗面** - 快捷方便，特别适合午餐，人均约25元。
+
+你对哪种类型的餐馆感兴趣呢？或者有其他具体的需求吗？
+
+
+
+[turn_3]User: 亲子聚餐。
+
+
+
+[turn_3]Sys:好的！亲子聚餐的话，我推荐以下几家餐馆，适合家庭一起用餐：
+
+**城关区：**
+1. **三十而已火锅** - 适合聚餐，可以享受火锅乐趣。
+2. **小川料理** - 日式料理，环境优雅，适合家庭聚会。
+
+**七里河区：**
+1. **海底捞火锅** - 有趣的点餐方式，适合孩子，服务好。
+2. **川湘小馆** - 辣味十足，但也有不辣的选择，适合全年龄。
+
+这些地方的氛围都不错，非常适合亲子聚餐！你觉得哪一家比较合适呢？
+
+
+
+[turn_4]User: 三十而已火锅，定了。
+
+
+
+[turn_4]Sys:太好了！三十而已火锅是个很好的选择，他们的火锅口味丰富，非常适合聚餐。记得提前预定哦！如果需要了解更多信息，比如地址、营业时间或者推荐菜品，随时告诉我！祝你们用餐愉快！
+
+
+
+[turn_5]User: 三十而已火锅在哪儿？
+
+
+
+[turn_5]Sys:三十而已火锅位于城关区，具体地址是XX街道XX号（请根据当地情况查找具体位置）。他们的营业时间通常是上午11点到深夜12点，建议你提前打电话确认。如果需要更多信息或帮助，随时告诉我！祝你用餐愉快！
+
+
+

@@ -1,0 +1,37 @@
+用户资料:{"name": "慕容皓轩", "relation": "同事", "gender": "男", "faceId": 104, "age": 26, "birthdate": "1999-09-07", "birthplace": "湖北省-武汉市", "education": "博士", "graduateSchool": "武汉大学", "major": "数学与应用数学", "location": "湖南省-长沙市", "homeAddress": "湖南省长沙市雨花区韶山南路498号", "company": "湖南人工智能产业园", "occupation": "数据分析师", "position": "高级研究员", "grade": "P7", "economicLevel": "小康", "entertainment": ["数独挑战", "科幻小说", "天文观测"], "dietaryPreference": ["热干面", "莲藕排骨汤", "精酿啤酒"], "personality": "INTP", "contactNumber": "16745120655", "idNumber": "420100199909073098", "bankCard": "6227009920950453", "email": "muronghaoxuan@hnaiip.com", "formalOrNot": "正式", "lengthOfTheStatement": "中等", "amountOfInformation": "信息量适中", "DecisionMakingMethod": "纠结", "domain": {"Foodie": {"specific": {"locationNot": ["广东省-深圳市-龙岗区-坂田万科广场", "上海市-静安区-静安寺", "湖南省-长沙市-五一广场"], "tasteNot": ["鲁菜", "西北菜", "东北菜"], "shopNot": ["老碗会陕西菜（宝安壹方城店）", "八合里牛肉火锅（龙岗万科店）", "费大厨辣椒炒肉（静安寺店）"], "constraint": ["停车", "环境更好", "评分更高"]}, "context": {"time": ["中午", "晚上"], "taste": ["湘菜", "川菜"], "location": ["芙蓉广场", "梅溪湖"], "scenes": ["聚餐", "同事聚会"], "price": ["80-150", "不高于200"], "rating": ["大于4.5", "不低于4.3"], "sourceLocation": ["公司"]}}, "Skincare": {"specific": {"skinType": ["油性", "痘痘肌", "敏感肌"], "skinProblems": ["痘痘", "闭口", "红血丝"], "environmentalFactors": ["潮湿", "南方", "空调房"], "lifestyleHabits": ["熬夜", "高糖饮食", "频繁摸脸"], "ContraindicatedIngredients": ["酒精", "矿物油", "合成香料"], "AvoidBranding": ["兰蔻", "倩碧", "美宝莲"], "purchasedProducts": ["理肤泉", "薇诺娜", "修丽可"]}, "context": {"productType": ["洁面乳", "精华", "防晒霜"], "focusOnEfficacy": ["控油", "祛痘", "舒缓"], "ingredientPreference": ["水杨酸", "神经酰胺"], "priceRange": "300-600"}}, "VMALL": {"specific": {"categoryNot": "智能穿戴", "deviceNot": ["华为儿童手表 4X 新耀款", "华为手环 6 NFC版", "HUAWEI WATCH FIT 3"], "seriesNot": ["健康及儿童手表", "WATCH Ultimate系列"], "colorNot": ["粉", "橙", "黄"]}, "context": {"category": ["手机", "平板电脑"], "color": ["黑", "银", "蓝"], "configuration": ["i7", "12G", "1TB"], "scene": ["工作", "日常使用"], "priceRange": ["4000-6000", "2000-4000"]}}}, "user_behavior": {"formality": "1", "emojis": "1"}}
+
+
+
+
+[turn_1]User: 您好👋，请您推荐几家符合以下条件的湘菜餐厅🌶️：位于芙蓉广场或梅溪湖区域📍，评分不低于4.3⭐，人均消费在80至150元之间💰，且具备停车便利和优良就餐环境🚗🌿。感谢您的协助🙏！
+
+
+
+[turn_1]Sys:您好！很高兴为您推荐湘菜餐厅。以下是几家符合您条件的选项：
+
+1. **湘聚餐厅**
+   - **评分**：4.5⭐
+   - **人均消费**：约120元
+   - **位置**：芙蓉广场
+   - **特点**：停车便利，环境优雅，适合聚餐。
+
+2. **梅溪湘菜馆**
+   - **评分**：4.4⭐
+   - **人均消费**：大约100元
+   - **位置**：梅溪湖
+   - **特点**：提供正宗湘菜，环境舒适，停车方便。
+
+3. **真湘味**
+   - **评分**：4.6⭐
+   - **人均消费**：约90元
+   - **位置**：芙蓉广场
+   - **特点**：菜品新鲜，服务优良，有良好的停车设施。
+
+这几家餐厅都非常符合您的要求，希望您能找到喜欢的地方就餐！如需更多信息，欢迎随时询问！🍽️😊
+
+
+
+[turn_2]User: 感谢您的详细推荐！🌟这些湘菜餐厅均符合我的区域、评分及消费需求，且满足停车与环境条件，十分适合我们的聚餐和同事聚会需求。🍽️🚗👍我已获得所需信息，感谢您的耐心协助！再见！👋😊
+
+
+

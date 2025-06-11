@@ -1,0 +1,642 @@
+{"history_id": 1, "LengthJudger": {"32": 1, "35": 1, "36": 2, "64": 1}}
+{"history_id": 2, "LengthJudger": {"32": 1, "52": 1, "31": 3}}
+{"history_id": 3, "LengthJudger": {"32": 2, "31": 3}}
+{"history_id": 4, "LengthJudger": {"34": 1, "31": 4}}
+{"history_id": 5, "LengthJudger": {"33": 1, "36": 1, "31": 2, "49": 1}}
+{"history_id": 6, "LengthJudger": {"31": 4, "21": 1}}
+{"history_id": 7, "LengthJudger": {"33": 1, "79": 1, "31": 3}}
+{"history_id": 8, "LengthJudger": {"32": 1, "49": 1, "31": 2, "52": 1}}
+{"history_id": 9, "LengthJudger": {"32": 1, "28": 1, "62": 1, "31": 2}}
+{"history_id": 10, "LengthJudger": {"32": 1, "45": 1, "31": 3}}
+{"history_id": 11, "LengthJudger": {"33": 1, "25": 1, "26": 1, "31": 2}}
+{"history_id": 12, "LengthJudger": {"33": 1, "49": 1, "31": 3}}
+{"history_id": 13, "LengthJudger": {"54": 1, "31": 4}}
+{"history_id": 14, "LengthJudger": {"33": 1, "46": 1, "31": 3}}
+{"history_id": 15, "LengthJudger": {"38": 1, "31": 4}}
+{"history_id": 16, "LengthJudger": {"38": 2, "49": 1, "31": 2}}
+{"history_id": 17, "LengthJudger": {"38": 1, "27": 1, "31": 3}}
+{"history_id": 18, "LengthJudger": {"29": 1, "27": 2, "26": 2}}
+{"history_id": 19, "LengthJudger": {"28": 1, "31": 4}}
+{"history_id": 20, "LengthJudger": {"29": 2, "31": 3}}
+{"history_id": 21, "LengthJudger": {"32": 1, "29": 2, "27": 1, "31": 1}}
+{"history_id": 22, "LengthJudger": {"38": 1, "31": 4}}
+{"history_id": 23, "LengthJudger": {"38": 1, "31": 4}}
+{"history_id": 24, "LengthJudger": {"28": 1, "33": 1, "31": 3}}
+{"history_id": 25, "LengthJudger": {"44": 1, "31": 3, "32": 1}}
+{"history_id": 26, "LengthJudger": {"35": 1, "31": 4}}
+{"history_id": 27, "LengthJudger": {"57": 1, "31": 4}}
+{"history_id": 28, "LengthJudger": {"57": 1, "39": 1, "31": 3}}
+{"history_id": 29, "LengthJudger": {"53": 1, "31": 4}}
+{"history_id": 30, "LengthJudger": {"31": 1, "20": 1, "30": 1, "28": 2}}
+{"history_id": 31, "LengthJudger": {"52": 1, "33": 1, "28": 3}}
+{"history_id": 32, "LengthJudger": {"57": 1, "50": 1, "28": 3}}
+{"history_id": 33, "LengthJudger": {"57": 1, "47": 1, "30": 1, "28": 2}}
+{"history_id": 34, "LengthJudger": {"59": 2, "26": 1, "20": 1, "69": 1}}
+{"history_id": 35, "LengthJudger": {"59": 1, "21": 1, "14": 3}}
+{"history_id": 36, "LengthJudger": {"59": 1, "14": 4}}
+{"history_id": 37, "LengthJudger": {"59": 1, "14": 4}}
+{"history_id": 38, "LengthJudger": {"59": 1, "14": 3, "66": 1}}
+{"history_id": 39, "LengthJudger": {"59": 1, "14": 1, "30": 1, "26": 1, "48": 1}}
+{"history_id": 40, "LengthJudger": {"66": 1, "14": 1, "50": 1, "42": 1, "24": 1}}
+{"history_id": 41, "LengthJudger": {"41": 1, "14": 4}}
+{"history_id": 42, "LengthJudger": {"66": 1, "14": 2, "38": 1, "35": 1}}
+{"history_id": 43, "LengthJudger": {"66": 1, "14": 2, "68": 1, "56": 1}}
+{"history_id": 44, "LengthJudger": {"66": 1, "14": 3, "34": 1}}
+{"history_id": 45, "LengthJudger": {"48": 1, "14": 2, "28": 1, "46": 1}}
+{"history_id": 46, "LengthJudger": {"66": 1, "14": 4}}
+{"history_id": 47, "LengthJudger": {"42": 1, "14": 4}}
+{"history_id": 48, "LengthJudger": {"66": 1, "14": 3, "34": 1}}
+{"history_id": 49, "LengthJudger": {"63": 1, "14": 3, "65": 1}}
+{"history_id": 50, "LengthJudger": {"53": 1, "14": 2, "44": 1, "56": 1}}
+{"history_id": 51, "LengthJudger": {"59": 1, "14": 2, "81": 1, "58": 1}}
+{"history_id": 52, "LengthJudger": {"79": 1, "14": 3, "58": 1}}
+{"history_id": 53, "LengthJudger": {"59": 1, "14": 4}}
+{"history_id": 54, "LengthJudger": {"66": 1, "14": 3, "55": 1}}
+{"history_id": 55, "LengthJudger": {"111": 1, "14": 2, "50": 1, "52": 1}}
+{"history_id": 56, "LengthJudger": {"60": 1, "14": 2, "30": 1, "54": 1}}
+{"history_id": 57, "LengthJudger": {"78": 1, "14": 3, "31": 1}}
+{"history_id": 58, "LengthJudger": {"61": 1, "14": 4}}
+{"history_id": 59, "LengthJudger": {"50": 1, "14": 2, "26": 1, "45": 1}}
+{"history_id": 60, "LengthJudger": {"45": 1, "14": 2, "143": 1, "121": 1}}
+{"history_id": 61, "LengthJudger": {"48": 1, "14": 1, "18": 3}}
+{"history_id": 62, "LengthJudger": {"62": 1, "14": 1, "27": 1, "18": 1, "63": 1}}
+{"history_id": 63, "LengthJudger": {"62": 1, "14": 3, "18": 1}}
+{"history_id": 64, "LengthJudger": {"73": 1, "60": 2, "52": 1, "59": 1}}
+{"history_id": 65, "LengthJudger": {"43": 1, "72": 1, "81": 1, "84": 1, "71": 1}}
+{"history_id": 66, "LengthJudger": {"98": 1, "36": 1, "39": 3}}
+{"history_id": 67, "LengthJudger": {"43": 1, "45": 1, "40": 3}}
+{"history_id": 68, "LengthJudger": {"52": 1, "57": 1, "60": 2, "59": 1}}
+{"history_id": 69, "LengthJudger": {"114": 1, "59": 3, "58": 1}}
+{"history_id": 70, "LengthJudger": {"73": 1, "60": 2, "52": 1, "59": 1}}
+{"history_id": 71, "LengthJudger": {"43": 1, "72": 1, "81": 1, "84": 1, "71": 1}}
+{"history_id": 72, "LengthJudger": {"98": 1, "36": 1, "39": 3}}
+{"history_id": 73, "LengthJudger": {"43": 1, "45": 1, "40": 3}}
+{"history_id": 74, "LengthJudger": {"52": 1, "57": 1, "60": 2, "59": 1}}
+{"history_id": 75, "LengthJudger": {"114": 1, "59": 3, "58": 1}}
+{"history_id": 76, "LengthJudger": {"36": 1, "69": 1, "107": 1, "82": 1, "88": 1}}
+{"history_id": 77, "LengthJudger": {"22": 1, "75": 1, "108": 1, "79": 1, "49": 1}}
+{"history_id": 78, "LengthJudger": {"38": 1, "61": 4}}
+{"history_id": 79, "LengthJudger": {"134": 1, "80": 1, "111": 1, "88": 1, "115": 1}}
+{"history_id": 80, "LengthJudger": {"34": 1, "65": 1, "51": 1, "79": 1, "64": 1}}
+{"history_id": 81, "LengthJudger": {"25": 1, "55": 1, "36": 1, "50": 1, "47": 1}}
+{"history_id": 82, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 83, "LengthJudger": {"122": 1, "43": 1, "40": 3}}
+{"history_id": 84, "LengthJudger": {"90": 1, "40": 4}}
+{"history_id": 85, "LengthJudger": {"109": 1, "42": 1, "40": 3}}
+{"history_id": 86, "LengthJudger": {"87": 1, "43": 4}}
+{"history_id": 87, "LengthJudger": {"80": 1, "40": 4}}
+{"history_id": 88, "LengthJudger": {"104": 1, "40": 4}}
+{"history_id": 89, "LengthJudger": {"85": 1, "43": 3, "38": 1}}
+{"history_id": 90, "LengthJudger": {"85": 1, "43": 3, "31": 1}}
+{"history_id": 91, "LengthJudger": {"43": 1, "40": 2, "24": 1, "25": 1}}
+{"history_id": 92, "LengthJudger": {"87": 1, "43": 4}}
+{"history_id": 93, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 94, "LengthJudger": {"109": 1, "71": 1, "42": 1, "40": 2}}
+{"history_id": 95, "LengthJudger": {"109": 1, "61": 3, "40": 1}}
+{"history_id": 96, "LengthJudger": {"94": 1, "40": 4}}
+{"history_id": 97, "LengthJudger": {"67": 1, "40": 4}}
+{"history_id": 98, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 99, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 100, "LengthJudger": {"76": 1, "40": 4}}
+{"history_id": 101, "LengthJudger": {"94": 1, "40": 3, "82": 1}}
+{"history_id": 102, "LengthJudger": {"38": 1, "43": 2, "54": 1, "40": 1}}
+{"history_id": 103, "LengthJudger": {"104": 1, "40": 4}}
+{"history_id": 104, "LengthJudger": {"94": 1, "40": 4}}
+{"history_id": 105, "LengthJudger": {"135": 1, "40": 4}}
+{"history_id": 106, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 107, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 108, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 109, "LengthJudger": {"79": 1, "40": 1, "76": 3}}
+{"history_id": 110, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 111, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 112, "LengthJudger": {"109": 1, "61": 1, "48": 1, "40": 2}}
+{"history_id": 113, "LengthJudger": {"43": 1, "40": 4}}
+{"history_id": 114, "LengthJudger": {"114": 1, "40": 4}}
+{"history_id": 115, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 116, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 117, "LengthJudger": {"104": 1, "67": 4}}
+{"history_id": 118, "LengthJudger": {"134": 1, "40": 4}}
+{"history_id": 119, "LengthJudger": {"88": 1, "40": 4}}
+{"history_id": 120, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 121, "LengthJudger": {"81": 1, "68": 1, "40": 3}}
+{"history_id": 122, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 123, "LengthJudger": {"121": 1, "40": 4}}
+{"history_id": 124, "LengthJudger": {"104": 1, "42": 1, "40": 3}}
+{"history_id": 125, "LengthJudger": {"48": 1, "40": 4}}
+{"history_id": 126, "LengthJudger": {"43": 1, "40": 3, "24": 1}}
+{"history_id": 127, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 128, "LengthJudger": {"104": 1, "42": 1, "40": 3}}
+{"history_id": 129, "LengthJudger": {"125": 1, "41": 1, "40": 3}}
+{"history_id": 130, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 131, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 132, "LengthJudger": {"83": 1, "58": 1, "40": 3}}
+{"history_id": 133, "LengthJudger": {"67": 1, "40": 4}}
+{"history_id": 134, "LengthJudger": {"80": 1, "64": 2, "40": 2}}
+{"history_id": 135, "LengthJudger": {"114": 1, "40": 4}}
+{"history_id": 136, "LengthJudger": {"44": 1, "43": 2, "24": 1, "25": 1}}
+{"history_id": 137, "LengthJudger": {"86": 1, "40": 4}}
+{"history_id": 138, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 139, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 140, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 141, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 142, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 143, "LengthJudger": {"95": 1, "43": 3, "40": 1}}
+{"history_id": 144, "LengthJudger": {"83": 1, "74": 4}}
+{"history_id": 145, "LengthJudger": {"43": 1, "40": 4}}
+{"history_id": 146, "LengthJudger": {"22": 1, "47": 1, "90": 1, "40": 2}}
+{"history_id": 147, "LengthJudger": {"105": 1, "40": 4}}
+{"history_id": 148, "LengthJudger": {"118": 1, "82": 4}}
+{"history_id": 149, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 150, "LengthJudger": {"38": 1, "43": 1, "40": 2, "115": 1}}
+{"history_id": 151, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 152, "LengthJudger": {"38": 1, "43": 2, "123": 1, "40": 1}}
+{"history_id": 153, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 154, "LengthJudger": {"94": 1, "40": 4}}
+{"history_id": 155, "LengthJudger": {"22": 1, "47": 1, "37": 1, "40": 2}}
+{"history_id": 156, "LengthJudger": {"48": 1, "40": 4}}
+{"history_id": 157, "LengthJudger": {"91": 1, "40": 4}}
+{"history_id": 158, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 159, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 160, "LengthJudger": {"40": 5}}
+{"history_id": 161, "LengthJudger": {"109": 1, "78": 1, "42": 1, "40": 2}}
+{"history_id": 162, "LengthJudger": {"88": 1, "40": 4}}
+{"history_id": 163, "LengthJudger": {"79": 1, "40": 3, "59": 1}}
+{"history_id": 164, "LengthJudger": {"104": 1, "78": 1, "40": 3}}
+{"history_id": 165, "LengthJudger": {"77": 1, "40": 4}}
+{"history_id": 166, "LengthJudger": {"81": 1, "68": 3, "40": 1}}
+{"history_id": 167, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 168, "LengthJudger": {"109": 1, "69": 2, "52": 1, "40": 1}}
+{"history_id": 169, "LengthJudger": {"25": 1, "40": 4}}
+{"history_id": 170, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 171, "LengthJudger": {"42": 1, "40": 4}}
+{"history_id": 172, "LengthJudger": {"35": 1, "43": 1, "40": 3}}
+{"history_id": 173, "LengthJudger": {"94": 1, "40": 4}}
+{"history_id": 174, "LengthJudger": {"81": 1, "72": 1, "42": 1, "40": 2}}
+{"history_id": 175, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 176, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 177, "LengthJudger": {"77": 1, "40": 4}}
+{"history_id": 178, "LengthJudger": {"91": 1, "40": 4}}
+{"history_id": 179, "LengthJudger": {"23": 1, "42": 2, "28": 1, "35": 1}}
+{"history_id": 180, "LengthJudger": {"77": 1, "40": 4}}
+{"history_id": 181, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 182, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 183, "LengthJudger": {"57": 1, "42": 1, "40": 3}}
+{"history_id": 184, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 185, "LengthJudger": {"38": 1, "43": 1, "68": 1, "40": 2}}
+{"history_id": 186, "LengthJudger": {"16": 1, "40": 1, "24": 1, "43": 1, "28": 1}}
+{"history_id": 187, "LengthJudger": {"58": 1, "43": 1, "40": 3}}
+{"history_id": 188, "LengthJudger": {"23": 1, "42": 2, "55": 1, "40": 1}}
+{"history_id": 189, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 190, "LengthJudger": {"99": 1, "40": 4}}
+{"history_id": 191, "LengthJudger": {"77": 1, "40": 4}}
+{"history_id": 192, "LengthJudger": {"92": 1, "40": 4}}
+{"history_id": 193, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 194, "LengthJudger": {"48": 1, "40": 4}}
+{"history_id": 195, "LengthJudger": {"104": 1, "40": 4}}
+{"history_id": 196, "LengthJudger": {"101": 1, "74": 1, "40": 3}}
+{"history_id": 197, "LengthJudger": {"38": 1, "40": 4}}
+{"history_id": 198, "LengthJudger": {"79": 1, "40": 2, "69": 2}}
+{"history_id": 199, "LengthJudger": {"106": 1, "40": 4}}
+{"history_id": 200, "LengthJudger": {"85": 1, "40": 4}}
+{"history_id": 201, "LengthJudger": {"109": 1, "61": 4}}
+{"history_id": 202, "LengthJudger": {"39": 1, "40": 4}}
+{"history_id": 203, "LengthJudger": {"120": 1, "40": 4}}
+{"history_id": 204, "LengthJudger": {"80": 1, "40": 4}}
+{"history_id": 205, "LengthJudger": {"82": 1, "40": 4}}
+{"history_id": 206, "LengthJudger": {"38": 1, "40": 4}}
+{"history_id": 207, "LengthJudger": {"77": 1, "40": 4}}
+{"history_id": 208, "LengthJudger": {"87": 1, "40": 4}}
+{"history_id": 209, "LengthJudger": {"123": 1, "40": 4}}
+{"history_id": 210, "LengthJudger": {"35": 1, "40": 4}}
+{"history_id": 211, "LengthJudger": {"79": 1, "40": 4}}
+{"history_id": 212, "LengthJudger": {"94": 1, "40": 4}}
+{"history_id": 213, "LengthJudger": {"79": 1, "68": 1, "66": 3}}
+{"history_id": 214, "LengthJudger": {"109": 1, "40": 4}}
+{"history_id": 1, "InfoAmountJudger": {"2": 2, "3": 1, "1": 1, "9": 1}}
+{"history_id": 2, "InfoAmountJudger": {"2": 1, "5": 1, "0": 3}}
+{"history_id": 3, "InfoAmountJudger": {"2": 1, "3": 1, "0": 3}}
+{"history_id": 4, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 5, "InfoAmountJudger": {"2": 1, "4": 2, "0": 2}}
+{"history_id": 6, "InfoAmountJudger": {"2": 2, "0": 3}}
+{"history_id": 7, "InfoAmountJudger": {"3": 1, "8": 1, "0": 3}}
+{"history_id": 8, "InfoAmountJudger": {"2": 1, "5": 2, "0": 2}}
+{"history_id": 9, "InfoAmountJudger": {"2": 1, "4": 1, "7": 1, "0": 2}}
+{"history_id": 10, "InfoAmountJudger": {"2": 1, "3": 1, "0": 3}}
+{"history_id": 11, "InfoAmountJudger": {"2": 3, "0": 2}}
+{"history_id": 12, "InfoAmountJudger": {"2": 1, "4": 1, "0": 3}}
+{"history_id": 13, "InfoAmountJudger": {"3": 1, "0": 4}}
+{"history_id": 14, "InfoAmountJudger": {"2": 1, "4": 1, "1": 3}}
+{"history_id": 15, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 16, "InfoAmountJudger": {"2": 2, "4": 1, "1": 2}}
+{"history_id": 17, "InfoAmountJudger": {"2": 2, "0": 3}}
+{"history_id": 18, "InfoAmountJudger": {"3": 5}}
+{"history_id": 19, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 20, "InfoAmountJudger": {"2": 2, "0": 3}}
+{"history_id": 21, "InfoAmountJudger": {"2": 3, "4": 1, "1": 1}}
+{"history_id": 22, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 23, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 24, "InfoAmountJudger": {"2": 2, "1": 3}}
+{"history_id": 25, "InfoAmountJudger": {"4": 1, "0": 3, "2": 1}}
+{"history_id": 26, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 27, "InfoAmountJudger": {"1": 1, "0": 4}}
+{"history_id": 28, "InfoAmountJudger": {"1": 1, "4": 1, "0": 3}}
+{"history_id": 29, "InfoAmountJudger": {"4": 1, "0": 4}}
+{"history_id": 30, "InfoAmountJudger": {"2": 1, "1": 1, "0": 3}}
+{"history_id": 31, "InfoAmountJudger": {"2": 1, "1": 1, "0": 3}}
+{"history_id": 32, "InfoAmountJudger": {"1": 3, "4": 1, "0": 1}}
+{"history_id": 33, "InfoAmountJudger": {"1": 1, "5": 1, "0": 3}}
+{"history_id": 34, "InfoAmountJudger": {"7": 2, "1": 3}}
+{"history_id": 35, "InfoAmountJudger": {"8": 1, "0": 4}}
+{"history_id": 36, "InfoAmountJudger": {"5": 1, "1": 4}}
+{"history_id": 37, "InfoAmountJudger": {"5": 1, "1": 4}}
+{"history_id": 38, "InfoAmountJudger": {"8": 1, "0": 3, "5": 1}}
+{"history_id": 39, "InfoAmountJudger": {"7": 1, "0": 1, "2": 1, "1": 1, "5": 1}}
+{"history_id": 40, "InfoAmountJudger": {"5": 1, "0": 2, "4": 1, "3": 1}}
+{"history_id": 41, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 42, "InfoAmountJudger": {"5": 2, "0": 2, "3": 1}}
+{"history_id": 43, "InfoAmountJudger": {"5": 1, "0": 2, "1": 1, "4": 1}}
+{"history_id": 44, "InfoAmountJudger": {"5": 1, "0": 3, "3": 1}}
+{"history_id": 45, "InfoAmountJudger": {"3": 3, "0": 2}}
+{"history_id": 46, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 47, "InfoAmountJudger": {"4": 1, "0": 4}}
+{"history_id": 48, "InfoAmountJudger": {"5": 1, "0": 3, "3": 1}}
+{"history_id": 49, "InfoAmountJudger": {"5": 1, "0": 3, "6": 1}}
+{"history_id": 50, "InfoAmountJudger": {"4": 1, "0": 2, "6": 1, "7": 1}}
+{"history_id": 51, "InfoAmountJudger": {"2": 1, "0": 2, "6": 1, "5": 1}}
+{"history_id": 52, "InfoAmountJudger": {"7": 2, "0": 3}}
+{"history_id": 53, "InfoAmountJudger": {"4": 1, "0": 4}}
+{"history_id": 54, "InfoAmountJudger": {"5": 1, "0": 3, "4": 1}}
+{"history_id": 55, "InfoAmountJudger": {"6": 2, "0": 2, "4": 1}}
+{"history_id": 56, "InfoAmountJudger": {"3": 2, "0": 2, "4": 1}}
+{"history_id": 57, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 58, "InfoAmountJudger": {"4": 1, "0": 4}}
+{"history_id": 59, "InfoAmountJudger": {"5": 2, "0": 2, "4": 1}}
+{"history_id": 60, "InfoAmountJudger": {"2": 1, "0": 2, "11": 2}}
+{"history_id": 61, "InfoAmountJudger": {"3": 1, "0": 4}}
+{"history_id": 62, "InfoAmountJudger": {"5": 1, "0": 2, "1": 1, "6": 1}}
+{"history_id": 63, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 64, "InfoAmountJudger": {"8": 1, "0": 4}}
+{"history_id": 65, "InfoAmountJudger": {"4": 1, "7": 1, "8": 3}}
+{"history_id": 66, "InfoAmountJudger": {"8": 1, "0": 4}}
+{"history_id": 67, "InfoAmountJudger": {"3": 2, "1": 3}}
+{"history_id": 68, "InfoAmountJudger": {"2": 1, "1": 4}}
+{"history_id": 69, "InfoAmountJudger": {"14": 1, "4": 1, "2": 3}}
+{"history_id": 70, "InfoAmountJudger": {"8": 1, "2": 1, "4": 1, "5": 2}}
+{"history_id": 71, "InfoAmountJudger": {"4": 1, "6": 1, "8": 1, "9": 1, "7": 1}}
+{"history_id": 72, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 73, "InfoAmountJudger": {"4": 1, "3": 1, "1": 3}}
+{"history_id": 74, "InfoAmountJudger": {"2": 1, "1": 4}}
+{"history_id": 75, "InfoAmountJudger": {"14": 1, "3": 1, "1": 3}}
+{"history_id": 76, "InfoAmountJudger": {"2": 1, "4": 2, "7": 1, "3": 1}}
+{"history_id": 77, "InfoAmountJudger": {"1": 1, "5": 2, "4": 1, "2": 1}}
+{"history_id": 78, "InfoAmountJudger": {"3": 1, "4": 4}}
+{"history_id": 79, "InfoAmountJudger": {"14": 1, "4": 2, "7": 2}}
+{"history_id": 80, "InfoAmountJudger": {"3": 2, "4": 2, "5": 1}}
+{"history_id": 81, "InfoAmountJudger": {"2": 2, "3": 2, "6": 1}}
+{"history_id": 82, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 83, "InfoAmountJudger": {"15": 1, "2": 1, "1": 3}}
+{"history_id": 84, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 85, "InfoAmountJudger": {"10": 1, "1": 1, "0": 3}}
+{"history_id": 86, "InfoAmountJudger": {"10": 1, "2": 4}}
+{"history_id": 87, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 88, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 89, "InfoAmountJudger": {"8": 1, "2": 3, "3": 1}}
+{"history_id": 90, "InfoAmountJudger": {"11": 1, "1": 3, "3": 1}}
+{"history_id": 91, "InfoAmountJudger": {"3": 1, "2": 4}}
+{"history_id": 92, "InfoAmountJudger": {"10": 1, "2": 4}}
+{"history_id": 93, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 94, "InfoAmountJudger": {"6": 1, "3": 1, "1": 3}}
+{"history_id": 95, "InfoAmountJudger": {"8": 1, "5": 3, "1": 1}}
+{"history_id": 96, "InfoAmountJudger": {"6": 1, "0": 4}}
+{"history_id": 97, "InfoAmountJudger": {"6": 1, "1": 4}}
+{"history_id": 98, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 99, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 100, "InfoAmountJudger": {"6": 1, "0": 4}}
+{"history_id": 101, "InfoAmountJudger": {"6": 1, "1": 3, "3": 1}}
+{"history_id": 102, "InfoAmountJudger": {"3": 1, "2": 2, "9": 1, "0": 1}}
+{"history_id": 103, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 104, "InfoAmountJudger": {"5": 1, "1": 4}}
+{"history_id": 105, "InfoAmountJudger": {"12": 1, "0": 4}}
+{"history_id": 106, "InfoAmountJudger": {"8": 1, "2": 4}}
+{"history_id": 107, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 108, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 109, "InfoAmountJudger": {"12": 1, "1": 1, "4": 3}}
+{"history_id": 110, "InfoAmountJudger": {"8": 1, "2": 4}}
+{"history_id": 111, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 112, "InfoAmountJudger": {"7": 1, "3": 1, "2": 1, "0": 2}}
+{"history_id": 113, "InfoAmountJudger": {"3": 1, "2": 4}}
+{"history_id": 114, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 115, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 116, "InfoAmountJudger": {"9": 1, "2": 4}}
+{"history_id": 117, "InfoAmountJudger": {"8": 1, "3": 4}}
+{"history_id": 118, "InfoAmountJudger": {"16": 1, "1": 4}}
+{"history_id": 119, "InfoAmountJudger": {"9": 1, "2": 4}}
+{"history_id": 120, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 121, "InfoAmountJudger": {"10": 1, "4": 1, "0": 3}}
+{"history_id": 122, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 123, "InfoAmountJudger": {"10": 1, "0": 4}}
+{"history_id": 124, "InfoAmountJudger": {"9": 1, "2": 1, "1": 3}}
+{"history_id": 125, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 126, "InfoAmountJudger": {"4": 1, "2": 4}}
+{"history_id": 127, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 128, "InfoAmountJudger": {"9": 1, "1": 1, "0": 3}}
+{"history_id": 129, "InfoAmountJudger": {"10": 1, "1": 1, "0": 3}}
+{"history_id": 130, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 131, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 132, "InfoAmountJudger": {"11": 1, "2": 1, "0": 3}}
+{"history_id": 133, "InfoAmountJudger": {"4": 1, "0": 4}}
+{"history_id": 134, "InfoAmountJudger": {"7": 1, "2": 2, "0": 2}}
+{"history_id": 135, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 136, "InfoAmountJudger": {"3": 4, "1": 1}}
+{"history_id": 137, "InfoAmountJudger": {"10": 1, "0": 4}}
+{"history_id": 138, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 139, "InfoAmountJudger": {"9": 1, "2": 4}}
+{"history_id": 140, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 141, "InfoAmountJudger": {"12": 1, "0": 4}}
+{"history_id": 142, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 143, "InfoAmountJudger": {"9": 1, "3": 3, "2": 1}}
+{"history_id": 144, "InfoAmountJudger": {"7": 1, "3": 4}}
+{"history_id": 145, "InfoAmountJudger": {"3": 1, "2": 4}}
+{"history_id": 146, "InfoAmountJudger": {"2": 2, "13": 1, "0": 2}}
+{"history_id": 147, "InfoAmountJudger": {"6": 1, "0": 4}}
+{"history_id": 148, "InfoAmountJudger": {"8": 1, "3": 4}}
+{"history_id": 149, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 150, "InfoAmountJudger": {"3": 2, "1": 1, "14": 1, "2": 1}}
+{"history_id": 151, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 152, "InfoAmountJudger": {"2": 3, "10": 1, "1": 1}}
+{"history_id": 153, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 154, "InfoAmountJudger": {"5": 1, "1": 4}}
+{"history_id": 155, "InfoAmountJudger": {"2": 3, "3": 1, "4": 1}}
+{"history_id": 156, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 157, "InfoAmountJudger": {"12": 1, "1": 4}}
+{"history_id": 158, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 159, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 160, "InfoAmountJudger": {"4": 1, "0": 4}}
+{"history_id": 161, "InfoAmountJudger": {"7": 1, "5": 1, "1": 3}}
+{"history_id": 162, "InfoAmountJudger": {"5": 1, "2": 4}}
+{"history_id": 163, "InfoAmountJudger": {"7": 1, "1": 3, "2": 1}}
+{"history_id": 164, "InfoAmountJudger": {"7": 1, "4": 1, "0": 3}}
+{"history_id": 165, "InfoAmountJudger": {"4": 1, "1": 4}}
+{"history_id": 166, "InfoAmountJudger": {"9": 1, "5": 3, "0": 1}}
+{"history_id": 167, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 168, "InfoAmountJudger": {"11": 1, "4": 2, "3": 1, "1": 1}}
+{"history_id": 169, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 170, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 171, "InfoAmountJudger": {"6": 1, "1": 4}}
+{"history_id": 172, "InfoAmountJudger": {"2": 1, "0": 4}}
+{"history_id": 173, "InfoAmountJudger": {"5": 1, "1": 4}}
+{"history_id": 174, "InfoAmountJudger": {"8": 1, "2": 2, "0": 2}}
+{"history_id": 175, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 176, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 177, "InfoAmountJudger": {"8": 1, "0": 4}}
+{"history_id": 178, "InfoAmountJudger": {"12": 1, "1": 4}}
+{"history_id": 179, "InfoAmountJudger": {"1": 1, "2": 4}}
+{"history_id": 180, "InfoAmountJudger": {"8": 1, "0": 4}}
+{"history_id": 181, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 182, "InfoAmountJudger": {"8": 1, "1": 4}}
+{"history_id": 183, "InfoAmountJudger": {"5": 1, "2": 4}}
+{"history_id": 184, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 185, "InfoAmountJudger": {"4": 1, "3": 1, "9": 1, "1": 2}}
+{"history_id": 186, "InfoAmountJudger": {"3": 4, "2": 1}}
+{"history_id": 187, "InfoAmountJudger": {"6": 1, "2": 1, "0": 3}}
+{"history_id": 188, "InfoAmountJudger": {"2": 3, "5": 1, "0": 1}}
+{"history_id": 189, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 190, "InfoAmountJudger": {"3": 1, "0": 4}}
+{"history_id": 191, "InfoAmountJudger": {"8": 1, "1": 4}}
+{"history_id": 192, "InfoAmountJudger": {"13": 1, "1": 4}}
+{"history_id": 193, "InfoAmountJudger": {"12": 1, "0": 4}}
+{"history_id": 194, "InfoAmountJudger": {"4": 1, "0": 4}}
+{"history_id": 195, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 196, "InfoAmountJudger": {"14": 1, "4": 1, "0": 3}}
+{"history_id": 197, "InfoAmountJudger": {"3": 1, "0": 4}}
+{"history_id": 198, "InfoAmountJudger": {"11": 1, "1": 2, "4": 2}}
+{"history_id": 199, "InfoAmountJudger": {"6": 1, "0": 4}}
+{"history_id": 200, "InfoAmountJudger": {"9": 1, "0": 4}}
+{"history_id": 201, "InfoAmountJudger": {"11": 1, "2": 4}}
+{"history_id": 202, "InfoAmountJudger": {"5": 1, "2": 4}}
+{"history_id": 203, "InfoAmountJudger": {"6": 1, "0": 4}}
+{"history_id": 204, "InfoAmountJudger": {"8": 1, "2": 4}}
+{"history_id": 205, "InfoAmountJudger": {"4": 1, "2": 4}}
+{"history_id": 206, "InfoAmountJudger": {"3": 1, "0": 4}}
+{"history_id": 207, "InfoAmountJudger": {"8": 1, "2": 4}}
+{"history_id": 208, "InfoAmountJudger": {"11": 1, "0": 4}}
+{"history_id": 209, "InfoAmountJudger": {"7": 1, "0": 4}}
+{"history_id": 210, "InfoAmountJudger": {"2": 1, "1": 4}}
+{"history_id": 211, "InfoAmountJudger": {"5": 1, "0": 4}}
+{"history_id": 212, "InfoAmountJudger": {"5": 1, "1": 4}}
+{"history_id": 213, "InfoAmountJudger": {"7": 1, "2": 4}}
+{"history_id": 214, "InfoAmountJudger": {"13": 1, "0": 4}}
+{"history_id": 1, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 2, "FormalityJudger": {"1": 5}}
+{"history_id": 3, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 4, "FormalityJudger": {"1": 5}}
+{"history_id": 5, "FormalityJudger": {"1": 5}}
+{"history_id": 6, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 7, "FormalityJudger": {"1": 5}}
+{"history_id": 8, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 9, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 10, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 11, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 12, "FormalityJudger": {"1": 5}}
+{"history_id": 13, "FormalityJudger": {"1": 5}}
+{"history_id": 14, "FormalityJudger": {"1": 5}}
+{"history_id": 15, "FormalityJudger": {"1": 5}}
+{"history_id": 16, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 17, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 18, "FormalityJudger": {"1": 5}}
+{"history_id": 19, "FormalityJudger": {"1": 5}}
+{"history_id": 20, "FormalityJudger": {"1": 5}}
+{"history_id": 21, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 22, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 23, "FormalityJudger": {"1": 5}}
+{"history_id": 24, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 25, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 26, "FormalityJudger": {"1": 5}}
+{"history_id": 27, "FormalityJudger": {"1": 5}}
+{"history_id": 28, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 29, "FormalityJudger": {"1": 5}}
+{"history_id": 30, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 31, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 32, "FormalityJudger": {"1": 5}}
+{"history_id": 33, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 34, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 35, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 36, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 37, "FormalityJudger": {"1": 5}}
+{"history_id": 38, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 39, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 40, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 41, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 42, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 43, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 44, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 45, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 46, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 47, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 48, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 49, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 50, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 51, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 52, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 53, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 54, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 55, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 56, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 57, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 58, "FormalityJudger": {"0": 5}}
+{"history_id": 59, "FormalityJudger": {"0": 5}}
+{"history_id": 60, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 61, "FormalityJudger": {"0": 5}}
+{"history_id": 62, "FormalityJudger": {"1": 2, "0": 3}}
+{"history_id": 63, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 64, "FormalityJudger": {"1": 5}}
+{"history_id": 65, "FormalityJudger": {"1": 5}}
+{"history_id": 66, "FormalityJudger": {"1": 5}}
+{"history_id": 67, "FormalityJudger": {"1": 5}}
+{"history_id": 68, "FormalityJudger": {"1": 5}}
+{"history_id": 69, "FormalityJudger": {"1": 5}}
+{"history_id": 70, "FormalityJudger": {"1": 5}}
+{"history_id": 71, "FormalityJudger": {"1": 5}}
+{"history_id": 72, "FormalityJudger": {"1": 5}}
+{"history_id": 73, "FormalityJudger": {"1": 5}}
+{"history_id": 74, "FormalityJudger": {"1": 5}}
+{"history_id": 75, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 76, "FormalityJudger": {"1": 5}}
+{"history_id": 77, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 78, "FormalityJudger": {"1": 5}}
+{"history_id": 79, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 80, "FormalityJudger": {"1": 5}}
+{"history_id": 81, "FormalityJudger": {"0": 2, "1": 3}}
+{"history_id": 82, "FormalityJudger": {"1": 5}}
+{"history_id": 83, "FormalityJudger": {"1": 5}}
+{"history_id": 84, "FormalityJudger": {"1": 5}}
+{"history_id": 85, "FormalityJudger": {"1": 5}}
+{"history_id": 86, "FormalityJudger": {"1": 5}}
+{"history_id": 87, "FormalityJudger": {"1": 5}}
+{"history_id": 88, "FormalityJudger": {"1": 5}}
+{"history_id": 89, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 90, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 91, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 92, "FormalityJudger": {"1": 5}}
+{"history_id": 93, "FormalityJudger": {"1": 5}}
+{"history_id": 94, "FormalityJudger": {"1": 5}}
+{"history_id": 95, "FormalityJudger": {"1": 5}}
+{"history_id": 96, "FormalityJudger": {"1": 5}}
+{"history_id": 97, "FormalityJudger": {"1": 5}}
+{"history_id": 98, "FormalityJudger": {"1": 5}}
+{"history_id": 99, "FormalityJudger": {"1": 5}}
+{"history_id": 100, "FormalityJudger": {"1": 5}}
+{"history_id": 101, "FormalityJudger": {"1": 5}}
+{"history_id": 102, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 103, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 104, "FormalityJudger": {"1": 5}}
+{"history_id": 105, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 106, "FormalityJudger": {"1": 5}}
+{"history_id": 107, "FormalityJudger": {"1": 5}}
+{"history_id": 108, "FormalityJudger": {"1": 5}}
+{"history_id": 109, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 110, "FormalityJudger": {"1": 5}}
+{"history_id": 111, "FormalityJudger": {"1": 5}}
+{"history_id": 112, "FormalityJudger": {"1": 5}}
+{"history_id": 113, "FormalityJudger": {"1": 5}}
+{"history_id": 114, "FormalityJudger": {"1": 5}}
+{"history_id": 115, "FormalityJudger": {"1": 5}}
+{"history_id": 116, "FormalityJudger": {"1": 5}}
+{"history_id": 117, "FormalityJudger": {"1": 5}}
+{"history_id": 118, "FormalityJudger": {"1": 5}}
+{"history_id": 119, "FormalityJudger": {"1": 5}}
+{"history_id": 120, "FormalityJudger": {"1": 5}}
+{"history_id": 121, "FormalityJudger": {"1": 5}}
+{"history_id": 122, "FormalityJudger": {"1": 5}}
+{"history_id": 123, "FormalityJudger": {"1": 5}}
+{"history_id": 124, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 125, "FormalityJudger": {"1": 5}}
+{"history_id": 126, "FormalityJudger": {"1": 5}}
+{"history_id": 127, "FormalityJudger": {"1": 5}}
+{"history_id": 128, "FormalityJudger": {"1": 5}}
+{"history_id": 129, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 130, "FormalityJudger": {"1": 5}}
+{"history_id": 131, "FormalityJudger": {"1": 5}}
+{"history_id": 132, "FormalityJudger": {"1": 5}}
+{"history_id": 133, "FormalityJudger": {"1": 5}}
+{"history_id": 134, "FormalityJudger": {"1": 1, "0": 4}}
+{"history_id": 135, "FormalityJudger": {"1": 5}}
+{"history_id": 136, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 137, "FormalityJudger": {"1": 5}}
+{"history_id": 138, "FormalityJudger": {"1": 5}}
+{"history_id": 139, "FormalityJudger": {"1": 5}}
+{"history_id": 140, "FormalityJudger": {"1": 5}}
+{"history_id": 141, "FormalityJudger": {"1": 5}}
+{"history_id": 142, "FormalityJudger": {"1": 5}}
+{"history_id": 143, "FormalityJudger": {"1": 5}}
+{"history_id": 144, "FormalityJudger": {"1": 5}}
+{"history_id": 145, "FormalityJudger": {"1": 5}}
+{"history_id": 146, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 147, "FormalityJudger": {"1": 5}}
+{"history_id": 148, "FormalityJudger": {"1": 5}}
+{"history_id": 149, "FormalityJudger": {"1": 5}}
+{"history_id": 150, "FormalityJudger": {"1": 5}}
+{"history_id": 151, "FormalityJudger": {"1": 5}}
+{"history_id": 152, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 153, "FormalityJudger": {"1": 5}}
+{"history_id": 154, "FormalityJudger": {"1": 5}}
+{"history_id": 155, "FormalityJudger": {"0": 2, "1": 3}}
+{"history_id": 156, "FormalityJudger": {"1": 5}}
+{"history_id": 157, "FormalityJudger": {"1": 5}}
+{"history_id": 158, "FormalityJudger": {"1": 5}}
+{"history_id": 159, "FormalityJudger": {"1": 5}}
+{"history_id": 160, "FormalityJudger": {"1": 5}}
+{"history_id": 161, "FormalityJudger": {"1": 5}}
+{"history_id": 162, "FormalityJudger": {"1": 5}}
+{"history_id": 163, "FormalityJudger": {"1": 5}}
+{"history_id": 164, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 165, "FormalityJudger": {"1": 5}}
+{"history_id": 166, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 167, "FormalityJudger": {"1": 5}}
+{"history_id": 168, "FormalityJudger": {"1": 5}}
+{"history_id": 169, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 170, "FormalityJudger": {"1": 5}}
+{"history_id": 171, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 172, "FormalityJudger": {"1": 5}}
+{"history_id": 173, "FormalityJudger": {"1": 5}}
+{"history_id": 174, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 175, "FormalityJudger": {"1": 5}}
+{"history_id": 176, "FormalityJudger": {"1": 5}}
+{"history_id": 177, "FormalityJudger": {"1": 5}}
+{"history_id": 178, "FormalityJudger": {"1": 5}}
+{"history_id": 179, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 180, "FormalityJudger": {"1": 5}}
+{"history_id": 181, "FormalityJudger": {"1": 5}}
+{"history_id": 182, "FormalityJudger": {"1": 5}}
+{"history_id": 183, "FormalityJudger": {"1": 5}}
+{"history_id": 184, "FormalityJudger": {"1": 5}}
+{"history_id": 185, "FormalityJudger": {"1": 4, "0": 1}}
+{"history_id": 186, "FormalityJudger": {"1": 3, "0": 2}}
+{"history_id": 187, "FormalityJudger": {"1": 5}}
+{"history_id": 188, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 189, "FormalityJudger": {"1": 5}}
+{"history_id": 190, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 191, "FormalityJudger": {"1": 5}}
+{"history_id": 192, "FormalityJudger": {"1": 5}}
+{"history_id": 193, "FormalityJudger": {"1": 5}}
+{"history_id": 194, "FormalityJudger": {"1": 5}}
+{"history_id": 195, "FormalityJudger": {"1": 5}}
+{"history_id": 196, "FormalityJudger": {"1": 5}}
+{"history_id": 197, "FormalityJudger": {"1": 5}}
+{"history_id": 198, "FormalityJudger": {"1": 5}}
+{"history_id": 199, "FormalityJudger": {"1": 5}}
+{"history_id": 200, "FormalityJudger": {"1": 5}}
+{"history_id": 201, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 202, "FormalityJudger": {"0": 1, "1": 4}}
+{"history_id": 203, "FormalityJudger": {"1": 5}}
+{"history_id": 204, "FormalityJudger": {"1": 5}}
+{"history_id": 205, "FormalityJudger": {"1": 5}}
+{"history_id": 206, "FormalityJudger": {"1": 5}}
+{"history_id": 207, "FormalityJudger": {"1": 5}}
+{"history_id": 208, "FormalityJudger": {"1": 5}}
+{"history_id": 209, "FormalityJudger": {"1": 5}}
+{"history_id": 210, "FormalityJudger": {"1": 5}}
+{"history_id": 211, "FormalityJudger": {"1": 5}}
+{"history_id": 212, "FormalityJudger": {"1": 5}}
+{"history_id": 213, "FormalityJudger": {"1": 5}}
+{"history_id": 214, "FormalityJudger": {"1": 5}}

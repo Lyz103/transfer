@@ -1,0 +1,3 @@
+你一共有{action_nums}种动作选择，分别为{action_names}，它们的描述如下：
+
+{action_description_str}
